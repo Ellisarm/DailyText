@@ -1,0 +1,5 @@
+C:\PROGRAMARE\C#\DailyText\DailyText\bin\Release\net6.0-windows\publish\DailyText.exe
+C:\PROGRAMARE\C#\DailyText\DailyText\bin\Release\net6.0-windows\publish\DailyText.dll
+C:\PROGRAMARE\C#\DailyText\DailyText\bin\Release\net6.0-windows\publish\DailyText.deps.json
+C:\PROGRAMARE\C#\DailyText\DailyText\bin\Release\net6.0-windows\publish\DailyText.runtimeconfig.json
+C:\PROGRAMARE\C#\DailyText\DailyText\bin\Release\net6.0-windows\publish\DailyText.pdb
