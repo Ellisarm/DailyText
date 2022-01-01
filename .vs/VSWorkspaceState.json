@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.github",
+    "\\.github\\workflows",
+    "\\DailyText"
+  ],
+  "SelectedNode": "\\DailyText\\DailyText.csproj",
+  "PreviewInSolutionExplorer": false
+}
